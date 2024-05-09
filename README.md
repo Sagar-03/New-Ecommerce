@@ -1,7 +1,3 @@
-Sure! Here's an expanded introduction for the README:
-
----
-
 # E-commerce Website
 
 Welcome to our E-commerce Website project repository! This project is a full-fledged online shopping platform built using React and Vite, designed to provide a seamless and intuitive shopping experience for both customers and administrators.
@@ -30,10 +26,6 @@ To get started with the project, follow the installation instructions.
 Certainly! Here's a README template for your GitHub repository:
 
 ---
-
-# E-commerce Website
-
-Welcome to our E-commerce Website project repository! This project is built using React and Vite, providing a fast and efficient development environment for building modern web applications.
 
 ## Installation
 
