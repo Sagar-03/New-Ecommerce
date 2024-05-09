@@ -87,10 +87,6 @@ This will start the development server and open the project in your default web 
 
 We welcome contributions from the community! If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to customize and expand upon this template to suit your project's specific requirements. Happy coding! 🚀
