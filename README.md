@@ -90,9 +90,9 @@ We welcome contributions from the community! If you'd like to contribute to the 
 ---
 
 Feel free to customize and expand upon this template to suit your project's specific requirements. Happy coding! 🚀
-![Murti + Sons - Google Chrome 5_10_2024 2_03_44 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/bc1c8247-bd16-42dc-a926-48de573f2557)
-![Murti + Sons - Google Chrome 5_10_2024 2_03_13 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/77bdce16-af2a-4b10-aef3-598a4ab509c4)
-![Murti + Sons - Google Chrome 5_10_2024 2_02_38 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/a54640e6-f389-4d7e-a19f-cc8294fb4886)
-![Murti + Sons - Google Chrome 5_10_2024 2_02_04 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/074ea15f-06af-4729-b140-bee53e5294b9)
-![Murti + Sons - Google Chrome 5_10_2024 2_01_49 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/57393247-53d6-40eb-892d-00f8f0227f37)
-![Murti + Sons - Google Chrome 5_10_2024 2_01_18 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/f64d28e3-64d5-4704-a263-6c896e23fb60)
+**HERE ARE SOME SNAPSHOTS OF WEBSITE**
+https://github.com/Sagar-03/New-Ecommerce/assets/146898741/57393247-53d6-40eb-892d-00f8f0227f37
+https://github.com/Sagar-03/New-Ecommerce/assets/146898741/074ea15f-06af-4729-b140-bee53e5294b9
+https://github.com/Sagar-03/New-Ecommerce/assets/146898741/a54640e6-f389-4d7e-a19f-cc8294fb4886
+https://github.com/Sagar-03/New-Ecommerce/assets/146898741/77bdce16-af2a-4b10-aef3-598a4ab509c4
+https://github.com/Sagar-03/New-Ecommerce/assets/146898741/bc1c8247-bd16-42dc-a926-48de573f2557)
