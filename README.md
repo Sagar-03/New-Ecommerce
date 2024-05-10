@@ -93,9 +93,9 @@ Feel free to customize and expand upon this template to suit your project's spec
 
 **HERE ARE SOME SNAPSHOTS OF WEBSITE**
 ![Murti + Sons - Google Chrome 5_10_2024 2_01_18 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/d052e9b8-cc47-4847-b4d6-50ddffc91c48)
-![Murti + Sons - Google Chrome 5_10_2024 2_03_44 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/34e69159-38cb-46a7-8dc8-ed0b152f5837)
 ![Murti + Sons - Google Chrome 5_10_2024 2_03_13 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/515a1178-04b6-4812-ae93-06068c09af0a)
 ![Murti + Sons - Google Chrome 5_10_2024 2_02_38 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/3c8e9c50-21cb-4ad8-993b-0771ac8558ef)
 ![Murti + Sons - Google Chrome 5_10_2024 2_02_04 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/14208ab8-e20e-44ea-916e-f725537c3495)
 ![Murti + Sons - Google Chrome 5_10_2024 2_01_49 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/ee51779b-a057-4b8c-9322-e1b4dec58fd5)
+![Murti + Sons - Google Chrome 5_10_2024 2_03_44 PM](https://github.com/Sagar-03/New-Ecommerce/assets/146898741/34e69159-38cb-46a7-8dc8-ed0b152f5837)
 
